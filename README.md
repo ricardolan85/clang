@@ -36,3 +36,18 @@ unsigned
 void
 volatile
 while
+
+Flow
+----
+
+Source -> Preprocessor -> Compiler -> Linker -> Program
+
+
+Basic Types
+-----------
+char
+int
+float
+double
+void
+
